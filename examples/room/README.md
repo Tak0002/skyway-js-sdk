@@ -1,2 +1,2 @@
 # Room
-[Live example](https://example.webrtc.ecl.ntt.com/room/index.html)
+[Live example](https://tak0002.github.io/skyway-js-sdk/examples/room/)
